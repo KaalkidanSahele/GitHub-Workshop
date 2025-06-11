@@ -2,4 +2,6 @@
 
 This is the read me I use alongside the workshop tutorials!
 
-These are lines I'm going to add via this VS Code IDE
+Visit the "Getting Started with GitHub + IDEs" PDF file to see the tutorial in full! Let's aim to work together in pairs so we can simulate a development team together :)
+
+Don't hesistate to ask for helps/ tip and tricks/ anything! 
